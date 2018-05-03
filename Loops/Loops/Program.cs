@@ -12,7 +12,7 @@ namespace Loops
         {
             Console.WriteLine("Guess a number");
             int number = Convert.ToInt32(Console.ReadLine());
-            bool isGuessed = number == 12;
+            bool isGuessed = number == 6;
 
             do
             {
@@ -33,8 +33,8 @@ namespace Loops
                         Console.WriteLine("Guess a number");
                         number = Convert.ToInt32(Console.ReadLine());
                         break;
-                    case 12:
-                        Console.WriteLine("You guessed 12. That is correct!");
+                    case 6:
+                        Console.WriteLine("You guessed 6. That is correct!");
                         isGuessed = true;
                         break;
                     default:
