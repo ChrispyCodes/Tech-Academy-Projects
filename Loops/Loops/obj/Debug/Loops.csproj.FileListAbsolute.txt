@@ -1,0 +1,7 @@
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Loops\Loops\obj\Debug\Loops.pdb

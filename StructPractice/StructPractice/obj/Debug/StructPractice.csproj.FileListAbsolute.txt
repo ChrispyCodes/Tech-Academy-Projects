@@ -1,0 +1,7 @@
+c:\users\theto\source\repos\StructPractice\StructPractice\obj\Debug\StructPractice.csprojResolveAssemblyReference.cache
+c:\users\theto\source\repos\StructPractice\StructPractice\obj\Debug\StructPractice.csproj.CoreCompileInputs.cache
+c:\users\theto\source\repos\StructPractice\StructPractice\bin\Debug\StructPractice.exe.config
+c:\users\theto\source\repos\StructPractice\StructPractice\bin\Debug\StructPractice.exe
+c:\users\theto\source\repos\StructPractice\StructPractice\bin\Debug\StructPractice.pdb
+c:\users\theto\source\repos\StructPractice\StructPractice\obj\Debug\StructPractice.exe
+c:\users\theto\source\repos\StructPractice\StructPractice\obj\Debug\StructPractice.pdb

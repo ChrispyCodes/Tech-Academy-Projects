@@ -1,0 +1,7 @@
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe.config
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.pdb
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb

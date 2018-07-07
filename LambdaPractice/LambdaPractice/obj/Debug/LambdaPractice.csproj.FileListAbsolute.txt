@@ -1,0 +1,7 @@
+C:\Users\TheTo\source\repos\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.exe.config
+C:\Users\TheTo\source\repos\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.exe
+C:\Users\TheTo\source\repos\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.pdb
+C:\Users\TheTo\source\repos\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.csprojResolveAssemblyReference.cache
+C:\Users\TheTo\source\repos\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\source\repos\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.exe
+C:\Users\TheTo\source\repos\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.pdb

@@ -1,0 +1,7 @@
+C:\Users\TheTo\source\repos\Loops Exercise\Loops Exercise\bin\Debug\Loops Exercise.exe.config
+C:\Users\TheTo\source\repos\Loops Exercise\Loops Exercise\bin\Debug\Loops Exercise.exe
+C:\Users\TheTo\source\repos\Loops Exercise\Loops Exercise\bin\Debug\Loops Exercise.pdb
+C:\Users\TheTo\source\repos\Loops Exercise\Loops Exercise\obj\Debug\Loops Exercise.csprojResolveAssemblyReference.cache
+C:\Users\TheTo\source\repos\Loops Exercise\Loops Exercise\obj\Debug\Loops Exercise.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\source\repos\Loops Exercise\Loops Exercise\obj\Debug\Loops Exercise.exe
+C:\Users\TheTo\source\repos\Loops Exercise\Loops Exercise\obj\Debug\Loops Exercise.pdb

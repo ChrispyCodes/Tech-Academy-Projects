@@ -1,0 +1,7 @@
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MathDrill\MathDrill\obj\Debug\MathDrill.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MathDrill\MathDrill\bin\Debug\MathDrill.exe.config
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MathDrill\MathDrill\bin\Debug\MathDrill.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MathDrill\MathDrill\bin\Debug\MathDrill.pdb
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MathDrill\MathDrill\obj\Debug\MathDrill.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MathDrill\MathDrill\obj\Debug\MathDrill.pdb
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MathDrill\MathDrill\obj\Debug\MathDrill.csprojResolveAssemblyReference.cache

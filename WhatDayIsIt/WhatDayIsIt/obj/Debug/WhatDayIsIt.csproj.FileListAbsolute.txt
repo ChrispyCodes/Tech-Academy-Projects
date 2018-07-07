@@ -1,0 +1,7 @@
+c:\users\theto\source\repos\WhatDayIsIt\WhatDayIsIt\bin\Debug\WhatDayIsIt.exe.config
+c:\users\theto\source\repos\WhatDayIsIt\WhatDayIsIt\bin\Debug\WhatDayIsIt.exe
+c:\users\theto\source\repos\WhatDayIsIt\WhatDayIsIt\bin\Debug\WhatDayIsIt.pdb
+c:\users\theto\source\repos\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.csproj.CoreCompileInputs.cache
+c:\users\theto\source\repos\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.exe
+c:\users\theto\source\repos\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.pdb
+C:\Users\TheTo\source\repos\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.csprojAssemblyReference.cache

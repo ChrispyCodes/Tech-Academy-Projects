@@ -1,0 +1,7 @@
+C:\Users\TheTo\source\repos\Exception Exercise\Exception Exercise\bin\Debug\Exception Exercise.exe.config
+C:\Users\TheTo\source\repos\Exception Exercise\Exception Exercise\bin\Debug\Exception Exercise.exe
+C:\Users\TheTo\source\repos\Exception Exercise\Exception Exercise\bin\Debug\Exception Exercise.pdb
+C:\Users\TheTo\source\repos\Exception Exercise\Exception Exercise\obj\Debug\Exception Exercise.csprojResolveAssemblyReference.cache
+C:\Users\TheTo\source\repos\Exception Exercise\Exception Exercise\obj\Debug\Exception Exercise.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\source\repos\Exception Exercise\Exception Exercise\obj\Debug\Exception Exercise.exe
+C:\Users\TheTo\source\repos\Exception Exercise\Exception Exercise\obj\Debug\Exception Exercise.pdb

@@ -1,0 +1,7 @@
+c:\users\theto\source\repos\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe.config
+c:\users\theto\source\repos\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe
+c:\users\theto\source\repos\StringFunctions\StringFunctions\bin\Debug\StringFunctions.pdb
+c:\users\theto\source\repos\StringFunctions\StringFunctions\obj\Debug\StringFunctions.csprojResolveAssemblyReference.cache
+c:\users\theto\source\repos\StringFunctions\StringFunctions\obj\Debug\StringFunctions.csproj.CoreCompileInputs.cache
+c:\users\theto\source\repos\StringFunctions\StringFunctions\obj\Debug\StringFunctions.exe
+c:\users\theto\source\repos\StringFunctions\StringFunctions\obj\Debug\StringFunctions.pdb
