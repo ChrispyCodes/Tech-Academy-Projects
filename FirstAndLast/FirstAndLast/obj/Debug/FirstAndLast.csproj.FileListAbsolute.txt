@@ -5,3 +5,10 @@ c:\users\theto\source\repos\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.csp
 c:\users\theto\source\repos\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.exe
 c:\users\theto\source\repos\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.pdb
 C:\Users\TheTo\source\repos\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.csprojAssemblyReference.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\FirstAndLast\FirstAndLast\bin\Debug\FirstAndLast.exe.config
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\FirstAndLast\FirstAndLast\bin\Debug\FirstAndLast.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\FirstAndLast\FirstAndLast\bin\Debug\FirstAndLast.pdb
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.csprojAssemblyReference.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\FirstAndLast\FirstAndLast\obj\Debug\FirstAndLast.pdb

@@ -25,13 +25,16 @@ namespace FirstAndLast
                 empList.Add(new Employee() {FirstName = "Chris", LastName = "Rax", Id = 10});
                 empList.Add(new Employee() {FirstName = "Bobby", LastName = "Johnell", Id= 11});
 
-            //Console.WriteLine("Employee's with the same name:");
+            Console.WriteLine("Employee's with the same name:");
             //List<Employee> sameName = empList.Where(x => x.FirstName == "Joe").ToList();
 
             //foreach (Employee name in sameName)
             //{
             //    Console.WriteLine(name.FirstName + " " + name.LastName + " " + name.Id);
             //}
+
+          
+
 
             //Console.WriteLine("\nEmployee's with ID greater than 5: ");
             //List<Employee> greaterThanFive = empList.Where<Employee>(x => x.Id > 5).ToList();
@@ -42,22 +45,39 @@ namespace FirstAndLast
             //}
 
             //KEEPING THE ORIGINAL FOREACH LOOP TO FIND THE SAME NAME
-            List<Employee> Joes = new List<Employee>();
-            foreach (Employee name in empList)
-            {
-                if (name.FirstName == "Joe")
-                {
-                    Joes.Add(name);
-                    Console.WriteLine(name.FirstName + " " + name.LastName);
-                }
-            }
+            //List<Employee> Joes = new List<Employee>();
+            //foreach (Employee name in empList)
+            //{
+            //    if (name.FirstName == "Joe")
+            //    {
+            //        Joes.Add(name);
+            //        Console.WriteLine(name.FirstName + " " + name.LastName);
+            //    }
+            //}
 
             Console.ReadLine();
-            
-            
+
+
         }
     }
 
     
  }
 
+//class Introduction
+//{
+//    // 3. Chain two constructors together.
+//    public Introduction(string name) : this(name, 20)
+//    {
+
+//    }
+//    public Introduction(string name, int age)
+//    {
+//        Name = name;
+//        Age = age;
+//    }
+
+//    public int Age { get; set; }
+//    public string Name { get; set; }
+
+//}

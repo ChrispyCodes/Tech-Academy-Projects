@@ -5,3 +5,10 @@ C:\Users\TheTo\source\repos\MethodsPractice\MethodsPractice\obj\Debug\MethodsPra
 C:\Users\TheTo\source\repos\MethodsPractice\MethodsPractice\obj\Debug\MethodsPractice.csproj.CoreCompileInputs.cache
 C:\Users\TheTo\source\repos\MethodsPractice\MethodsPractice\obj\Debug\MethodsPractice.exe
 C:\Users\TheTo\source\repos\MethodsPractice\MethodsPractice\obj\Debug\MethodsPractice.pdb
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MethodsPractice\MethodsPractice\bin\Debug\MethodsPractice.exe.config
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MethodsPractice\MethodsPractice\bin\Debug\MethodsPractice.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MethodsPractice\MethodsPractice\bin\Debug\MethodsPractice.pdb
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MethodsPractice\MethodsPractice\obj\Debug\MethodsPractice.csprojAssemblyReference.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MethodsPractice\MethodsPractice\obj\Debug\MethodsPractice.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MethodsPractice\MethodsPractice\obj\Debug\MethodsPractice.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\MethodsPractice\MethodsPractice\obj\Debug\MethodsPractice.pdb

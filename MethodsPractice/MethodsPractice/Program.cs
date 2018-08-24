@@ -18,6 +18,8 @@ namespace MethodsPractice
             domath.displayOutValue();
             domath.Subtract(10.5);
             domath.displayOutValue();
+            domath.Add("10", "userInput");
+            domath.displayOutValue();
         }
     }
 }

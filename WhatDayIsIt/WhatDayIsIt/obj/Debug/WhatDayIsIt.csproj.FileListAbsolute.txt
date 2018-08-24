@@ -5,3 +5,10 @@ c:\users\theto\source\repos\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.csproj
 c:\users\theto\source\repos\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.exe
 c:\users\theto\source\repos\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.pdb
 C:\Users\TheTo\source\repos\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.csprojAssemblyReference.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\WhatDayIsIt\WhatDayIsIt\bin\Debug\WhatDayIsIt.exe.config
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\WhatDayIsIt\WhatDayIsIt\bin\Debug\WhatDayIsIt.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\WhatDayIsIt\WhatDayIsIt\bin\Debug\WhatDayIsIt.pdb
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.csprojAssemblyReference.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.exe
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\WhatDayIsIt\WhatDayIsIt\obj\Debug\WhatDayIsIt.pdb

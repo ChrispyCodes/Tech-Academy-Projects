@@ -34,15 +34,17 @@ namespace MethodsPractice
             outValue = Convert.ToInt32(userInput2 - num1);
 
         }
-        public void Multiply(string people, string cars)
+        public void Add(string people, string cars)
         {
 
             int number1 = Convert.ToInt32(people);
-            int number2 = Convert.ToInt32(cars);
+            Console.WriteLine("Enter a number: ");
+            
+            int userInput3 = Convert.ToInt32(cars);
             int.TryParse(people, out number1);
-            int.TryParse(cars, out number2);
+            int.TryParse(cars, out userInput3);
 
-            outValue = Convert.ToInt32(number1 * number2);
+            outValue = Convert.ToInt32(number1 * userInput3);
 
         }
 

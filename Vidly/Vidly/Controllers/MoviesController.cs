@@ -22,10 +22,12 @@ namespace Vidly.Controllers
             };
             var viewModel = new RandomMovieViewModel
             {
-                Movie = movie;
-                Customers = customers;
-            }
-            return View(Movie);
+                Movie = movie,
+                Customers = customers
+
+            };
+
+            return View(viewModel);
         }
 
         public ActionResult Edit(int Id)

@@ -18,11 +18,11 @@ namespace Casino
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            using (StreamWriter file = new StreamWriter(@"C:\users\theto\source\repos\log.txt", true))
-            {
-                file.WriteLine(DateTime.Now);
-                file.WriteLine(card);
-            }
+            //using (StreamWriter file = new StreamWriter(@"C:\users\theto\source\repos\log.txt", true))
+            //{
+            //    file.WriteLine(DateTime.Now);
+            //    file.WriteLine(card);
+            //}
             Deck.Cards.RemoveAt(0);
         }
     }
