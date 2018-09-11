@@ -1,2 +1,3 @@
-# Tech-Academy-Projects
-Tech Academy Projects for learning
+# School Projects! 
+
+ Fundamentals of programming using mostly C# :)
