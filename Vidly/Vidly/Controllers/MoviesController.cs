@@ -16,8 +16,8 @@ namespace Vidly.Controllers
             var movie = new Movie() { Name = "Shrek!" };
             var customers = new List<Customer>
             {
-                new Customer { Name = "Customer 1" },
-                new Customer { Name = "Customer 2" }
+                new Customer { Name = "John Smith" },
+                new Customer { Name = "Larry Page" }
 
             };
             var viewModel = new RandomMovieViewModel
@@ -45,6 +45,21 @@ namespace Vidly.Controllers
                 sortBy = "Name";
 
             return Content(string.Format("pageIndex={0}&sortBy={1}", pageIndex, sortBy));
+        }
+        public ViewResult Index()
+        {
+            var movies = GetMovies();
+
+            return View(movies);
+        }
+
+        private IEnumerable<Movie> GetMovies()
+        {
+            return new List<Movie>
+            {
+                new Movie { Id = 1, Name = "Shrek" },
+                new Movie { Id = 2, Name = "Wall-e" }
+            };
         }
     }
 }
