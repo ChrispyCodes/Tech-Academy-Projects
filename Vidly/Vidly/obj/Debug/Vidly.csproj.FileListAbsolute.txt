@@ -124,3 +124,6 @@ C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidl
 C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipType.resources
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipType.resources
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingMovieProps.resources

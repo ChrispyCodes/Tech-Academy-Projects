@@ -215,6 +215,18 @@
     <Compile Include="Migrations\201809102230315_PopulateMembershipTypes.Designer.cs">
       <DependentUpon>201809102230315_PopulateMembershipTypes.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201809112157019_PopulateMembershipType.cs" />
+    <Compile Include="Migrations\201809112157019_PopulateMembershipType.Designer.cs">
+      <DependentUpon>201809112157019_PopulateMembershipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201809112205125_SetNameOfMembershipType.cs" />
+    <Compile Include="Migrations\201809112205125_SetNameOfMembershipType.Designer.cs">
+      <DependentUpon>201809112205125_SetNameOfMembershipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201809120045059_AddingMovieProps.cs" />
+    <Compile Include="Migrations\201809120045059_AddingMovieProps.Designer.cs">
+      <DependentUpon>201809120045059_AddingMovieProps.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -233,6 +245,7 @@
     </Content>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\main.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -293,9 +306,11 @@
     <Content Include="Views\Movies\Customers.cshtml" />
     <Content Include="Views\Customers\Index.cshtml" />
     <Content Include="Views\Customers\Details.cshtml" />
+    <Content Include="Views\Movies\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\images\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -315,6 +330,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201809102230315_PopulateMembershipTypes.resx">
       <DependentUpon>201809102230315_PopulateMembershipTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809112157019_PopulateMembershipType.resx">
+      <DependentUpon>201809112157019_PopulateMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809112205125_SetNameOfMembershipType.resx">
+      <DependentUpon>201809112205125_SetNameOfMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809120045059_AddingMovieProps.resx">
+      <DependentUpon>201809120045059_AddingMovieProps.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
