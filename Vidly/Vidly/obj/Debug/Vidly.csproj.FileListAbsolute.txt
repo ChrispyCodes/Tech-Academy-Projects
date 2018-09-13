@@ -129,3 +129,4 @@ C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidl
 C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
