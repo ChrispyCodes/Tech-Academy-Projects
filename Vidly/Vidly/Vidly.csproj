@@ -247,6 +247,14 @@
     <Compile Include="Migrations\201809171911390_MovieFormViewModel.Designer.cs">
       <DependentUpon>201809171911390_MovieFormViewModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201809182317276_addgenreid.cs" />
+    <Compile Include="Migrations\201809182317276_addgenreid.Designer.cs">
+      <DependentUpon>201809182317276_addgenreid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201809182345376_addgenreid1.cs" />
+    <Compile Include="Migrations\201809182345376_addgenreid1.Designer.cs">
+      <DependentUpon>201809182345376_addgenreid1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -379,6 +387,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201809171911390_MovieFormViewModel.resx">
       <DependentUpon>201809171911390_MovieFormViewModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809182317276_addgenreid.resx">
+      <DependentUpon>201809182317276_addgenreid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809182345376_addgenreid1.resx">
+      <DependentUpon>201809182345376_addgenreid1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

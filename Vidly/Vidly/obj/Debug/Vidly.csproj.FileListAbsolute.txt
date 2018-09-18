@@ -132,3 +132,5 @@ C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidl
 C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.NewCustomerViewModel.resources
 C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.MovieFormViewModel.resources
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.addgenreid.resources
+C:\Users\TheTo\OneDrive\Desktop\Tech Academy Projects\Tech-Academy-Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.addgenreid1.resources
