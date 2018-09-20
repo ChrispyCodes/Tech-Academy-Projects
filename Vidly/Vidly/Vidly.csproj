@@ -255,6 +255,10 @@
     <Compile Include="Migrations\201809182345376_addgenreid1.Designer.cs">
       <DependentUpon>201809182345376_addgenreid1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201809202202397_AddNameRequiredInMovie.cs" />
+    <Compile Include="Migrations\201809202202397_AddNameRequiredInMovie.Designer.cs">
+      <DependentUpon>201809202202397_AddNameRequiredInMovie.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -394,6 +398,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201809182345376_addgenreid1.resx">
       <DependentUpon>201809182345376_addgenreid1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809202202397_AddNameRequiredInMovie.resx">
+      <DependentUpon>201809202202397_AddNameRequiredInMovie.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
